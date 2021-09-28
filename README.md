@@ -14,3 +14,4 @@
 
 - gitflow
 - github flow
+- gitlab flow
