@@ -6,3 +6,6 @@
 - git switch
 - git checkout
 - git log
+- git merge
+- git rebase
+- git cherry-pick
